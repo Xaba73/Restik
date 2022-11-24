@@ -11,4 +11,4 @@
 
 Проект сбилжен в ветке gh-pages, рабочая ссылка для ознокомления:
 
-# https://xaba73.github.io/Restoran/
+# https://xaba73.github.io/Restik/
